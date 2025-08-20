@@ -7,7 +7,7 @@
 --- 
 
 ##### Ingredients
-*put ingredients here in a md list, followed by calorie and protein content*
+*put ingredients here in a md list, followed by calorie and protein content if applicable*
 
 ### Steps
 *List the steps here*
